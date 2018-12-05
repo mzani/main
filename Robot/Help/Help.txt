@@ -1,0 +1,25 @@
+C:\USERS\MZani\Robot.c
+
+Entrar na pasta do programa e digita DDISE
+
+F2 = mostra linha
+F8 = Options
+F10 = Comandos
+	w = salvar
+
+Carregar e executar um programa
+l 8000
+F3
+ENTER
+g 8000
+
+Outra coisa, quando você escreve ddside na linha de comando do DOS vem uma
+instrução para você escrever DDSIDE%! Ou DDSIDE85. Você deve escrever
+DDSIDE85 pois esse script configura as variáveis de ambiente necessárias.
+
+Mudar a porta para COM1 no options
+
+Chave Baixo na tomada.
+Chave Cima só a bateria.
+
+Liga o cabo do computador na placa do meio
